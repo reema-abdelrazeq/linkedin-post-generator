@@ -25,7 +25,6 @@ Supports both Arabic (Jordanian dialect) and English posts via a simple, clean S
 
 ---
 
-## Image Demo:
 ## Demo Screenshot
 
 ![LinkedIn Post Generator Demo](post.png)
