@@ -39,7 +39,8 @@ Supports both Arabic (Jordanian dialect) and English posts via a simple, clean S
 - Groq API Key (set as environment variable) 🔑  
 - Streamlit for the web interface
 
-### Installation  ```bash
+### Installation 
+```bash
     git clone https://github.com/reema-abdelrazeq/linkedin-post-generator.git
     cd linkedin-post-generator
     pip install -r requirements.txt
