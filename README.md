@@ -7,8 +7,7 @@ Supports both Arabic (Jordanian dialect) and English posts via a simple, clean S
 
 ## Features 🌟
 
-- Generate posts in **Arabic** and **English** 🌍  
-- Choose tone: **Professional** or **Casual** 💼🎉  
+- Generate posts in **Arabic** and **English** 🌍   
 - Customize post length: **Short**, **Medium**, or **Long** 📏  
 - Uses real LinkedIn post data for natural-sounding content 📝  
 - Easy-to-use UI built with **Streamlit** 💻  
